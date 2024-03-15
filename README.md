@@ -77,11 +77,10 @@
 ```
 Поле для вставки кода...
 
-
-`При необходимости прикрепитe сюда скриншоты
-[изображение](https://github.com/disa77/Git-SDG/assets/88330288/96200588-c856-498e-8e9c-bdb341487a0d)
-[Название скриншота]![изображение](https://github.com/disa77/Git-SDG/assets/88330288/5b84c5b4-3419-4350-93ab-bfc5faaf68b0)
-[Название скриншота](![изображение](https://github.com/disa77/Git-SDG/assets/88330288/3c31b354-7ee5-40dc-b65d-a8e5c17cdac6)
+При необходимости прикрепитe сюда скриншоты
+![скриншот](![изображение](https://github.com/disa77/Git-SDG/assets/88330288/96200588-c856-498e-8e9c-bdb341487a0d)
+![скриншот](![изображение](https://github.com/disa77/Git-SDG/assets/88330288/5b84c5b4-3419-4350-93ab-bfc5faaf68b0)
+![скриншот](![изображение](https://github.com/disa77/Git-SDG/assets/88330288/3c31b354-7ee5-40dc-b65d-a8e5c17cdac6)
 
 ### Задание 4
 
