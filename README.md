@@ -53,7 +53,7 @@
 `Приведите ответ в свободной форме........`
 
 1. `Заполните здесь этапы выполнения, если требуется ....`
-[Линк на файл](https://github.com/disa77/Netology/blob/main/.gitignore)
+[Линк на файл](https://github.com/disa77/Netology/commit/f42d15249769bb0e592cf8781b403809db066cb9#diff-bc37d034bad564583790a46f19d807abfe519c5671395fd494d8cce506c42947)
 
 
 ```
